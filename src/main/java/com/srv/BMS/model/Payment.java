@@ -1,7 +1,5 @@
 package com.srv.BMS.model;
 
-import com.srv.BMS.model.enums.PaymentMethod;
-import com.srv.BMS.model.enums.PaymentStatus;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;

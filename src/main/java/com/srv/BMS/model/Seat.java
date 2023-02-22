@@ -1,7 +1,5 @@
 package com.srv.BMS.model;
 
-import com.srv.BMS.model.enums.SeatStatus;
-import com.srv.BMS.model.enums.SeatType;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

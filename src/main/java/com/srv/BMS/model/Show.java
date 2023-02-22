@@ -1,6 +1,5 @@
 package com.srv.BMS.model;
 
-import com.srv.BMS.model.enums.Feature;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
